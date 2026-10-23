@@ -1,0 +1,21 @@
+class_id,class_name,iou,accuracy
+0,wall,0.7887,0.9181
+1,floor,0.9424,0.9792
+2,cabinet,0.5522,0.6064
+3,bed,0.7252,0.7627
+4,chair,0.8201,0.8697
+5,sofa,0.6675,0.8843
+6,table,0.6677,0.8196
+7,door,0.5591,0.7773
+8,window,0.6325,0.8262
+9,bookshelf,0.6869,0.7500
+10,picture,0.2865,0.3468
+11,counter,0.6048,0.7702
+12,desk,0.5771,0.6413
+13,curtain,0.6639,0.8348
+14,refridgerator,0.5249,0.6405
+15,shower curtain,0.5221,0.5879
+16,toilet,0.8681,0.8929
+17,sink,0.5580,0.7499
+18,bathtub,0.6838,0.7482
+19,otherfurniture,0.4691,0.5433

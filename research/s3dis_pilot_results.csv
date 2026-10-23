@@ -1,0 +1,6 @@
+variant,target_stages,miou,macc,allacc,eval_seconds_per_room,train_seconds_per_step,train_steps_per_second,train_points_per_second,peak_allocated_gib,peak_reserved_gib
+baseline,none,0.3004,0.3754,0.7083,2.505,0.279219,3.581,366737.1,0.774,0.836
+exact_global,5,0.3003,0.3783,0.7197,2.605,0.263959,3.788,387938.7,0.774,0.836
+exact_global,4+5,0.3006,0.3781,0.7159,2.905,0.265573,3.765,385580.8,0.775,0.838
+relflex,5,0.2878,0.3640,0.7068,2.823,0.281113,3.557,364265.9,0.824,0.881
+relflex,4+5,0.2890,0.3665,0.7086,3.891,0.297728,3.359,343937.6,1.069,1.291

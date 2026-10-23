@@ -1,0 +1,6 @@
+variant,attention_stages,miou,macc,allacc,eval_seconds_per_scene,eval_scenes_per_second,profile_ms_per_train_step,profile_train_steps_per_second,peak_allocated_gib,peak_reserved_gib,scope
+baseline,none,0.4983,0.5821,0.9028,0.995,1.005,212.221,4.712,1.036717,1.140625,mini_scannet_54_train_10_val
+exact_global,5,0.4991,0.5820,0.9031,0.936,1.068,216.603,4.617,1.036743,1.140625,mini_scannet_54_train_10_val
+exact_global,4+5,0.4966,0.5711,0.9051,0.946,1.057,217.192,4.604,1.028277,1.130859,mini_scannet_54_train_10_val
+relflex,5,0.4966,0.5771,0.9054,0.985,1.015,233.511,4.282,1.089397,1.302734,mini_scannet_54_train_10_val
+relflex,4+5,0.2890,0.3734,0.7796,1.334,0.750,308.273,3.244,1.338897,1.816406,mini_scannet_54_train_10_val

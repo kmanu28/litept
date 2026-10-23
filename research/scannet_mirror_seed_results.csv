@@ -1,0 +1,10 @@
+variant,seed,miou,macc,allacc
+baseline,0,0.4983,0.5821,0.9028
+baseline,1,0.5015,0.5899,0.9020
+baseline,2,0.5134,0.5941,0.9068
+exact_global_s5,0,0.4968,0.5796,0.9026
+exact_global_s5,1,0.5041,0.5903,0.9026
+exact_global_s5,2,0.5112,0.5909,0.9064
+relflex_s5,0,0.4937,0.5737,0.9055
+relflex_s5,1,0.4958,0.5751,0.9038
+relflex_s5,2,0.4961,0.5831,0.8966

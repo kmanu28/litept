@@ -1,0 +1,4 @@
+variant,miou_mean,miou_sample_std,macc_mean,macc_sample_std,allacc_mean,allacc_sample_std
+baseline,0.504400,0.007957,0.588700,0.006089,0.903867,0.002572
+exact_global_s5,0.504033,0.007200,0.586933,0.006358,0.903867,0.002194
+relflex_s5,0.495200,0.001308,0.577300,0.005071,0.901967,0.004725

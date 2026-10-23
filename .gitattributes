@@ -1,0 +1,1 @@
+artifacts/s3dis/checkpoints/*.pth filter=lfs diff=lfs merge=lfs -text
